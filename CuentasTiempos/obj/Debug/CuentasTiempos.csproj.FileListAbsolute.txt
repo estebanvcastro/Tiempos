@@ -1,0 +1,12 @@
+C:\Users\Esteban\source\repos\CuentasTiempos\CuentasTiempos\bin\Debug\CuentasTiempos.exe.config
+C:\Users\Esteban\source\repos\CuentasTiempos\CuentasTiempos\bin\Debug\CuentasTiempos.exe
+C:\Users\Esteban\source\repos\CuentasTiempos\CuentasTiempos\bin\Debug\CuentasTiempos.pdb
+C:\Users\Esteban\source\repos\CuentasTiempos\CuentasTiempos\obj\Debug\CuentasTiempos.csprojAssemblyReference.cache
+C:\Users\Esteban\source\repos\CuentasTiempos\CuentasTiempos\obj\Debug\CuentasTiempos.Properties.Resources.resources
+C:\Users\Esteban\source\repos\CuentasTiempos\CuentasTiempos\obj\Debug\CuentasTiempos.csproj.GenerateResource.cache
+C:\Users\Esteban\source\repos\CuentasTiempos\CuentasTiempos\obj\Debug\CuentasTiempos.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\source\repos\CuentasTiempos\CuentasTiempos\obj\Debug\CuentasTiempos.exe
+C:\Users\Esteban\source\repos\CuentasTiempos\CuentasTiempos\obj\Debug\CuentasTiempos.pdb
+C:\Users\Esteban\source\repos\CuentasTiempos\CuentasTiempos\obj\Debug\CuentasTiempos.FrmLogin.resources
+C:\Users\Esteban\source\repos\CuentasTiempos\CuentasTiempos\obj\Debug\CuentasTiempos.FrmMenu.resources
+C:\Users\Esteban\source\repos\CuentasTiempos\CuentasTiempos\obj\Debug\CuentasTiempos.FrmCuentas.resources
